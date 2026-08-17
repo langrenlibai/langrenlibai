@@ -12,7 +12,7 @@ I'm an AI Product Manager focused on turning AI capabilities into products that 
 
 我关注的不只是模型“能不能做到”，更关心它能否进入真实业务流程、被用户稳定使用，并形成可验证的交付结果。
 
-My philosophy is simple: 流水不争先。
+My philosophy : 流水不争先。
 
 ### What I'm focused on
 

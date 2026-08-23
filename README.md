@@ -32,5 +32,5 @@ My philosophy : 流水不争先。
 
 ---
 
-- 🌐 Visit my [personal website](https://langrenlibai.github.io/yangchenxuan.github.io/)
-- ✉️ Reach me at [keilholzkakacek@gmail.com](mailto:keilholzkakacek@gmail.com)
+- 🌐 访问我的 [个人网站](https://langrenlibai.com/)
+- ✉️ 请通过 [2458602834@qq.com](mailto:2458602834@qq.com) 联系我

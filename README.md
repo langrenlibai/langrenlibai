@@ -1,9 +1,9 @@
 <h3 align="center">Hi there, I'm 浪人李白｜Kevin.Yang 👋</h3>
 
 <p align="center">
-  <a href="https://langrenlibai.github.io/yangchenxuan.github.io/">Website</a> •
-  <a href="mailto:keilholzkakacek@gmail.com">Email</a> •
-  <a href="https://github.com/langrenlibai/yangchenxuan.github.io">Notes</a>
+  <a href="https://langrenlibai.com/">Website</a> •
+  <a href="mailto:2458602834@qq.com">Email</a> •
+  <a href="https://langrenlibai.com/blog/">Notes</a>
 </p>
 
 ---

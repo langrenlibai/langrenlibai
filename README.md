@@ -1,5 +1,5 @@
 <h3 align="center">Hi there, I'm 浪人李白｜Kevin.Yang 👋</h3>
-简介：爱听摇滚的 AI 产品经理，专注把 AI 能力做成真正可用的产品。
+
 <p align="center">
   <a href="https://langrenlibai.github.io/yangchenxuan.github.io/">Website</a> •
   <a href="mailto:keilholzkakacek@gmail.com">Email</a> •
@@ -7,6 +7,7 @@
 </p>
 
 ---
+简介：爱听摇滚的 AI 产品经理，专注把 AI 能力做成真正可用的产品。
 
 I'm an AI Product Manager focused on turning AI capabilities into products that work reliably in real business environments.
 

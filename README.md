@@ -7,7 +7,7 @@
 </p>
 
 ---
-简介：爱听摇滚的 AI 产品经理，专注把 AI 能力做成真正可用的产品。
+简介：浪人李白，是一位爱听摇滚的 AI 产品经理，持续分享 AI 产品实践、独立开发，以及把想法做成可上线产品的过程。
 
 I'm an AI Product Manager focused on turning AI capabilities into products that work reliably in real business environments.
 
